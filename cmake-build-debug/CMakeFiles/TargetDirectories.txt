@@ -1,0 +1,3 @@
+C:/Users/kiros/CLionProjects/Ds project/cmake-build-debug/CMakeFiles/Ds_project.dir
+C:/Users/kiros/CLionProjects/Ds project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kiros/CLionProjects/Ds project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

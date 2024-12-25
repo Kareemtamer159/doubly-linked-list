@@ -1,0 +1,6 @@
+# ninja log v5
+7	1033	7568649770378603	CMakeFiles/Ds_project.dir/Doubly_linked_list.cpp.obj	dab232be2d7708a7
+2	1059	7568649770646844	CMakeFiles/Ds_project.dir/main.cpp.obj	199053920f949d69
+2	248	7568652894306944	build.ninja	e3923032108e1451
+4	1001	7568653777299784	CMakeFiles/Ds_project.dir/main.cpp.obj	199053920f949d69
+1001	1087	7568653778132896	Ds_project.exe	8e50dfbbccf7539c
